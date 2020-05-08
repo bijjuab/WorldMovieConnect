@@ -11,6 +11,7 @@ public class email {
   private String Alternamteemail;
   private int defaultPasswordLength = 9;
   //constructor  to receive first name and last name
+  //adding more comments
   public email(String firstname, String Lastname){
 	  this.firstname = firstname;
 	  this.Lastname = Lastname;
